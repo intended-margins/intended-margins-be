@@ -9,7 +9,7 @@ import org.youable.margins.domain.common.entity.BaseTimeEntity;
 import java.util.ArrayList;
 import java.util.List;
 
-@Entity(name = "user")
+@Entity(name = "users")
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @Getter
 public class User extends BaseTimeEntity {
