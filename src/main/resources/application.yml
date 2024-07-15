@@ -1,1 +1,3 @@
-spring.application.name=intended-margins-spring
+spring:
+  profiles:
+    active: local
